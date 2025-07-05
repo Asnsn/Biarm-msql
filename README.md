@@ -1,14 +1,5 @@
 # The biarms/mysql project
-
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/biarms/mysql?label=Latest%20Github%20release&logo=Github)
-![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/biarms/mysql?include_prereleases&label=Highest%20GitHub%20release&logo=Github&sort=semver)
-
-[![TravisCI build status image](https://img.shields.io/travis/biarms/mysql/master?label=Travis%20build&logo=Travis)](https://travis-ci.org/biarms/mysql)
-[![CircleCI build status image](https://img.shields.io/circleci/build/gh/biarms/mysql/master?label=CircleCI%20build&logo=CircleCI)](https://circleci.com/gh/biarms/mysql)
-
-[![Docker Pulls image](https://img.shields.io/docker/pulls/biarms/mysql?logo=Docker)](https://hub.docker.com/r/biarms/mysql)
-[![Docker Stars image](https://img.shields.io/docker/stars/biarms/mysql?logo=Docker)](https://hub.docker.com/r/biarms/mysql)
-[![Highest Docker release](https://img.shields.io/docker/v/biarms/mysql?label=docker%20release&logo=Docker&sort=semver)](https://hub.docker.com/r/biarms/mysql)
+[![Highest Docker release](label=docker%20release&logo=Docker&sort=semver)](https://hub.docker.com/r/biarms/mysql)
 
 <!--
 ![TravisCI build status image](https://travis-ci.org/biarms/mysql.svg?branch=master) 
